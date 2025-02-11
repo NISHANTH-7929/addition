@@ -1,7 +1,21 @@
+
 // Function 3: Prints a farewell message
 void farewell() {
     printf("Goodbye! Have a great day.\n");
 }
+
+
+// Function 2: Adds two numbers and returns the result
+int add(int a, int b) {
+    return a + b;
+
+// Function 1: Prints a greeting message
+void greet() {
+    printf("Hello! Welcome to the C program.\n");
+
+}
+
+
 int main() {
     // Call the greeting function
     greet();

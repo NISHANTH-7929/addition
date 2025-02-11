@@ -1,3 +1,8 @@
+// Function 1: Prints a greeting message
+void greet() {
+    printf("Hello! Welcome to the C program.\n");
+}
+
 int main() {
     // Call the greeting function
     greet();

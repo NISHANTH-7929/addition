@@ -1,6 +1,12 @@
+
 // Function 2: Adds two numbers and returns the result
 int add(int a, int b) {
     return a + b;
+
+// Function 1: Prints a greeting message
+void greet() {
+    printf("Hello! Welcome to the C program.\n");
+
 }
 
 int main() {

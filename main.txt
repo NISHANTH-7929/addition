@@ -1,0 +1,13 @@
+int main() {
+    // Call the greeting function
+    greet();
+
+    // Call the add function and print the result
+    int sum = add(5, 10);
+    printf("The sum of 5 and 10 is: %d\n", sum);
+
+    // Call the farewell function
+    farewell();
+
+    return 0;
+}

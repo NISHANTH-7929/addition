@@ -1,3 +1,7 @@
+// Function 3: Prints a farewell message
+void farewell() {
+    printf("Goodbye! Have a great day.\n");
+}
 int main() {
     // Call the greeting function
     greet();
